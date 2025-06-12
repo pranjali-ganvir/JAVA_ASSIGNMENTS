@@ -1,8 +1,6 @@
 # JAVA_ASSIGNMENTS
 
 #STEPS
-My name is pranjali
-
 
 Pranjaly Ganvir@DESKTOP-9CG3S45 MINGW64 ~/Desktop/GitBashLocal (master)
 $ git init
